@@ -1,7 +1,11 @@
 {
   "id": "paseo-files",
   "name": "Paste files into the composer",
-  "media": [],
+  "description": "Paste any file into the composer with Ctrl+V / Cmd+V to attach it.",
+  "icon": "assets/icon.png",
+  "media": [
+    "assets/screenshot-files.png"
+  ],
   "requirements": {
     "paseo": ">=0.13.0"
   }
